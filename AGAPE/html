@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Agape</title>
+    <link rel="stylesheet" href="Agape.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo">
+            <img src="agape_academy_logo-removebg-preview-1.webp" alt="Logo">
+        </div>
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome to <span>Agape</span></h1>
+        </div>
+        <div class="hero-image">
+            <img src="home.jpg" alt="Agape">
+        </div>
+    </section>
+
+    
+    <section class="about-us">
+        <div class="about-container">
+            <h2>About Us</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In quis dolorum consequatur sed. Ratione veritatis distinctio, odit ut velit tempore, delectus laboriosam earum cumque incidunt blanditiis adipisci? Non, nisi maxime?.</p>
+        </div>
+    </section>
+
+    
+    <section class="about">
+        <img src="agape-academy-1(1).jpeg" alt="about">
+    </section>
+
+    
+    <section class="gallery">
+        <h2>Gallery</h2>
+        <div class="gallery-container">
+            <div class="gallery-item">
+                <img src="school-trip(1).jpeg" alt="School Trip"><p>School Trip</p>
+            </div>
+            <div class="gallery-item">
+                <img src="science-fair-1-copy(1).jpeg" alt="Science Fair">
+                <p>Science Fair</p>
+            </div>
+            <div class="gallery-item">
+                <img src="career-day-1(1).jpeg" alt="Career Day">
+                <p>Career Day</p>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
